@@ -12,8 +12,8 @@ AI-Healthcare is a web-based healthcare management system designed to help users
 - Responsive User Interface
 
 ## Technologies Used
-- Frontend: HTML, CSS, JavaScript
-- Backend:  Spring Boot, Django, Node.js
+- Frontend: HTML, CSS, JavaScript, ReactJS
+- Backend:  Spring Boot, Django, Node.js, Python
 - Database: MySQL, PostgreSQL, MongoDB
 - AI: TensorFlow, Gemini API, OpenAI API
 
