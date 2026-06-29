@@ -40,12 +40,3 @@ git clone https://github.com/vipul5103/AI-Healthcare.git
 
 4. Run the application.
 
-## Author
-
-**Vipul Girase**
-
-GitHub: https://github.com/vipul5103
-
-## License
-
-This project is for learning and educational purposes.
